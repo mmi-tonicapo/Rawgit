@@ -7,7 +7,7 @@ Ce fichier inclut les ressources suivantes :
 - Le reset de Eric Meyer v2.0 http://meyerweb.com/eric/tools/css/reset/
 - Le modèle de boite box-sizing:border-box
 - La version 4.7 de Fontawesome -> http://fontawesome.io/
-- Les fonts Google Roboto et Open Sans -> fonts.google.com
+- Les fonts Google Roboto et Open Sans -> https://fonts.google.com
 */
 
 /*////////////////////////////////////////////////////////////////////////////*/
@@ -1315,8 +1315,8 @@ table {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../fonts/fontawesome-webfont.eot?v=4.3.0');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.3.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.3.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.3.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.3.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular') format('svg');
+  src: url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.eot');
+  src: url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.eot') format('embedded-opentype'), url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.woff2') format('woff2'), url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.woff') format('woff'), url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.ttf') format('truetype'), url('https://rawgit.com/mmi-tonicapo/Rawgit/master/fonts/fontawesome-webfont.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
